@@ -105,7 +105,7 @@ function concordpay_link($params)
 
     // System Parameters
     $systemUrl = $params['systemurl'];
-    $returnUrl = $systemUrl . '/modules/gateways/concordpay/' . $moduleName . '.php?result=';
+    $returnUrl = $systemUrl . 'modules/gateways/concordpay/result.php?result=';
 
     // Invoice Parameters (additional)
     $description = "Оплата карткою на сайті $systemUrl, $client_first_name $client_last_name, $phone";
