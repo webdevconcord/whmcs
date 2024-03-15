@@ -1,4 +1,5 @@
 # Платёжный модуль ConcordPay для WHMCS
+*Национальный банк Украины сделал это бесполезным*
 
 Creator: [ConcordPay](https://concordpay.concord.ua)<br>
 Tags: ConcordPay, WHMCS, payment, payment gateway, credit card, Visa, MasterCard, Apple Pay, Google Pay<br>
